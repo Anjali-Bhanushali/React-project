@@ -1,7 +1,7 @@
 function App(){
-  return <div>
-   <h1>this is the best react course</h1>
-  </div>
+  return 
+    <h1>this is best react app</h1>
+  
 }
 
 export default App();
